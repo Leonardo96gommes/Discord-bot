@@ -1,2 +1,2 @@
 # discord-bot
- bot
+pagina para um bot de discord
